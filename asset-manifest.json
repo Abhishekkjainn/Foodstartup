@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Foodstartup/static/css/main.e603d559.css",
+    "main.js": "/Foodstartup/static/js/main.8a87cd78.js",
+    "static/js/787.aea67911.chunk.js": "/Foodstartup/static/js/787.aea67911.chunk.js",
+    "static/media/page2image.png": "/Foodstartup/static/media/page2image.0ebac175377b08ba081d.png",
+    "static/media/page1image.png": "/Foodstartup/static/media/page1image.8de84515d397818dbd9a.png",
+    "static/media/page3image.png": "/Foodstartup/static/media/page3image.2193d44455fe81b4ee4e.png",
+    "static/media/page5image.png": "/Foodstartup/static/media/page5image.9940c46350803306142f.png",
+    "static/media/page4image.png": "/Foodstartup/static/media/page4image.72caea3f45d9831ac7c3.png",
+    "static/media/page6image.png": "/Foodstartup/static/media/page6image.bc7de184ff3e55bc7603.png",
+    "static/media/box3img.png": "/Foodstartup/static/media/box3img.2b54710f70483bc3acf1.png",
+    "index.html": "/Foodstartup/index.html",
+    "main.e603d559.css.map": "/Foodstartup/static/css/main.e603d559.css.map",
+    "main.8a87cd78.js.map": "/Foodstartup/static/js/main.8a87cd78.js.map",
+    "787.aea67911.chunk.js.map": "/Foodstartup/static/js/787.aea67911.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e603d559.css",
+    "static/js/main.8a87cd78.js"
+  ]
+}
